@@ -5,11 +5,10 @@ StartFlashTool是一款我和start开发的具有GUI界面的刷机软件。
 
 #### 功能：
 1. 在USB下载模式写入部分麒麟手机的临时引导  
-2. 支持部分设备在EMUI9与EMUI10及以下系统通过固件升级模式进入USB下载模式，例如：畅享9Plus, 荣耀v10, 荣耀9等部分机型  
-3. 支持麒麟620-710进行解锁引导加载器
-4. fastboot刷机
-5. kirin960/970/980/710部分型号的手机5%升级进入USB COM 1.0模式
-6. EMUI9系统root功能（ EMUI8、EMUI10可用magiskpatcher电脑修补ramdisk然后一键root）
+2. 支持麒麟620-710进行解锁引导加载器
+3. fastboot刷机(目前支持双SUPER的系统版本，还在测试中)，同时也支持txt脚本刷机
+4. kirin960/970/980/710部分型号的手机5%升级进入USB COM 1.0模式(支持部分设备在EMUI9与EMUI10及以下系统通过固件升级模式进入USB下载模式，例如：畅享9Plus, 荣耀v10, 荣耀9等部分机型 )
+5. EMUI9系统root功能（ EMUI8、EMUI10可用magiskpatcher电脑修补ramdisk然后一键root）
 
 
 临时引导本身是准备支持麒麟620-980，但是因为时间与其他原因放弃了，在后续更新中会进行添加，请见谅  
